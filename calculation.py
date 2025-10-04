@@ -1,9 +1,17 @@
 a=[1,4,8,5,9,6]
-result=[]
+e_result=[]
+o_result=[]
 
 for i in a:
     if i%2==0:
-        result.append(i)
-        print(result)
-        # print(i)
+        e_result.append(i)
+    else:
+        o_result.append(i)
+        
+print(e_result)
+print(o_result)
+
+
+
+
 
