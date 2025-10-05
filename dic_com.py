@@ -11,3 +11,6 @@ print(a)
 
 result=[i for i in a]
 print(result)
+
+result1= {i:"Even" if i%2==0 else "Odd" for i in a}
+print(result1)
