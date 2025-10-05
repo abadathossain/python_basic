@@ -7,8 +7,3 @@ file.close()
 with open("read.txt", "r") as f:
     content1=f.read()
     print(content1)
-
-
-# write with append
-with open("read.txt", "a") as f:
-    f.write("Bangladesh\n")
