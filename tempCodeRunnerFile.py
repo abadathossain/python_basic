@@ -1,9 +1,5 @@
-file=open("read.txt", "r")
-content=file.read()
-print(content)
-file.close()
-
-# another option
-with open("read.txt", "r") as f:
-    content1=f.read()
-    print(content1)
+i=0
+# while i<len(a):
+#     sum+=a[i]
+#     i+=1
+# print(sum)
