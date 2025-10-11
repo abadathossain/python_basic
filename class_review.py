@@ -7,7 +7,7 @@ class Car:
 car1=Car()
 car1.brand="Honda"
 car1.model="Corolla"
-# print(car1.brand,car1.model)
+print(car1.brand,car1.model)
 
 
 # parameterized construcotr
