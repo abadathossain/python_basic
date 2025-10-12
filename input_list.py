@@ -4,3 +4,4 @@ for i in range(x):
     new=input()
     in_list.append(new)
     print(in_list)
+print(in_list)
