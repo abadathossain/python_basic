@@ -15,3 +15,8 @@ print(s_result)
 
 ss_result=[item**2 if item %2==0 else item for item in b]
 print(ss_result)
+
+
+
+
+

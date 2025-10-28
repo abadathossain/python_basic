@@ -1,16 +1,8 @@
-class Grandpa:
-#     def __init__(self,name,color):
-#         self.name=name
-#         self.color=color
+li=[-10,2,5,4,-3,9]
 
-# class Father(Grandpa):
-#     def __init__(self,hobby, name, color):
-#         super().__init__(name, color)
-#         self.hobby=hobby
-
-# class Children(Father,Grandpa):
-#     def __init__(self, hobby, name, color):
-#         super().__init__(hobby, name, color)
-
-# gf1=Grandpa("Khan","Red")
-# c1=Children("Ball","Karim", "Green")
+# i=0
+# while i<len(li):
+#     if li[i]<0:
+#         li[i]=0
+# i+=1
+# # print(li)
